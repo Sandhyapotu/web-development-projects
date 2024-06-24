@@ -1,0 +1,22 @@
+body{
+    color: aqua;
+    width:auto;
+    height: auto;
+}
+fieldset
+{
+    background-color: bisque;
+    color: black;
+    text-align: center;
+    height: 40%;
+    width:40%;
+    border-color:navy;
+    padding: 20px;
+
+}
+input
+{
+    background-color: skyblue;
+    width: auto;
+    height: auto;
+}
