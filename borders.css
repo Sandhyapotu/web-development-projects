@@ -1,0 +1,69 @@
+.dotted
+{
+    border: dotted;
+    width: 10%;
+    text-align: center;
+    color:blue;
+}
+.dashed
+{
+    border: dashed;
+    width: 10%;
+    text-align: center;
+    color: purple;
+}
+.double
+{
+    border: double;
+    width: 10%;
+    text-align: center;
+    color: plum;
+}
+.solid
+{
+    border: solid;
+    width: 10%;
+    text-align: center;
+    color: royalblue;
+}
+.groove
+{
+    border: groove;
+    width: 10%;
+    text-align: center;
+    color: red;
+}
+.ridge
+{
+    border: ridge;
+    width: 10%;
+    text-align: center;
+    color: brown;
+}
+.inset{
+    border: inset;
+    width: 10%;
+    text-align: center;
+    color: rgb(243, 240, 255);
+}
+.outset
+{
+    border: outset;
+    width: 10%;
+    text-align: center;
+    color: rgb(242, 255, 240);
+}
+.none
+{
+    border: none;
+    width: 10%;
+    text-align: center;
+    color: rgb(8, 87, 87);
+}
+.hidden
+{
+    border: hidden;
+    width: 10%;
+    text-align: center;
+    color: blue;
+}
