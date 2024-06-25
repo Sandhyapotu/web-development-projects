@@ -1,0 +1,48 @@
+body
+        {
+            background-color: cadetblue;
+        }
+        h1{
+            width: 100%;
+            height: 50%;
+            color:blueviolet;
+            background-color: beige;
+            padding: auto;
+        }
+        b{
+            text-align: center;
+            font-style: normal;
+            color: brown;
+            background-color: black;
+            float: right;
+            width: 50%; 
+            height: 50%;
+        }
+        .wikipedia
+        {
+            float: right;
+           width: 50%; 
+            height: 50%;
+            background-color: blueviolet;
+            color: chartreuse;
+            padding: 20px;
+            border: double;
+            
+        }
+        img{
+            float: left;
+            width: 20%; 
+            height: 20%;
+            border: dashed;
+        }
+iframe
+{
+    float: left
+    
+}
+a
+{
+float: right;
+width: 50%; 
+height: 50%;
+}
